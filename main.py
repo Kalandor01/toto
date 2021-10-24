@@ -91,26 +91,26 @@ else:
             if talal[i] == tipp_n - 4:
                 print(str(i + 1) + ".: " + str(jatekos_tip[i]))
     # 11
-    if talal_11 > 0:
-        print("\n11-es találatok: " + str(talal_11))
+    if talal_10 > 0:
+        print("\n11-es találatok: " + str(talal_10))
         for i in range(jatekos_n):
             if talal[i] == tipp_n - 3:
                 print(str(i + 1) + ".: " + str(jatekos_tip[i]))
     # 12
-    if talal_12 > 0:
-        print("\n12-es találatok: " + str(talal_12))
+    if talal_10 > 0:
+        print("\n12-es találatok: " + str(talal_10))
         for i in range(jatekos_n):
             if talal[i] == tipp_n - 2:
                 print(str(i + 1) + ".: " + str(jatekos_tip[i]))
     # 13
-    if talal_13 > 0:
-        print("\n13-as találatok: " + str(talal_13))
+    if talal_10 > 0:
+        print("\n13-as találatok: " + str(talal_10))
         for i in range(jatekos_n):
             if talal[i] == tipp_n - 1:
                 print(str(i + 1) + ".: " + str(jatekos_tip[i]))
     # 14
-    if talal_14 > 0:
-        print("\n14-es találatok: " + str(talal_14))
+    if talal_10 > 0:
+        print("\n14-es találatok: " + str(talal_10))
         for i in range(jatekos_n):
             if talal[i] == tipp_n:
                 print(str(i + 1) + ".: " + str(jatekos_tip[i]))
